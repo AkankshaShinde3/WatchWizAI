@@ -14,7 +14,7 @@ This application is an AI-powered streaming platform that delivers personalized 
 - **Backend**: Node.js / Express.js
 - **Database**: MongoDB / Firebase
 - **AI Integration**: Google's Gemini API
-- **Hosting**: Vercel / Railway / AWS
+- **Hosting**: Vercel
 
 ## Installation
 1. Clone the repository:
