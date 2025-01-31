@@ -3,6 +3,9 @@
 ## Overview
 This application is an AI-powered streaming platform that delivers personalized movie recommendations using Google's Gemini API. The core idea is to enhance the user experience by integrating AI-driven search capabilities, multi-language support, and real-time data management.
 
+## Live Demo  
+Link: https://drive.google.com/file/d/1SchoVNoj-Lw4ZHSKuqBTFWTIALJP1dHY/view?usp=sharing
+
 ## Features
 - **Personalized Recommendations**: AI-driven movie suggestions based on user preferences.
 - **AI-Powered Search**: Smart search functionality powered by Google's Gemini API.
