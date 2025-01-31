@@ -10,9 +10,8 @@ This application is an AI-powered streaming platform that delivers personalized 
 - **Real-Time Data Management**: Instant updates and dynamic content delivery.
 
 ## Technologies Used
-- **Frontend**: React.js / Next.js
-- **Backend**: Node.js / Express.js
-- **Database**: MongoDB / Firebase
+- **Frontend**: React.js, TailwindCSS
+- **Database**: Firebase
 - **AI Integration**: Google's Gemini API
 - **Hosting**: Vercel
 
